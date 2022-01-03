@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Accueil</title>
+<title>Accueil V2 by nabil</title>
 </head>
 <body>
     <h1>Article :</h1>
