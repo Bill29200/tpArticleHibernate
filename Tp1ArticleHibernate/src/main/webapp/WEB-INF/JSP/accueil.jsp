@@ -5,7 +5,11 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
+<<<<<<< HEAD
 <title>Accueil V2</title>
+=======
+<title>Accueil V2 by nabil</title>
+>>>>>>> 2833a92e316c0c4ad99af4474757f3e98dbed399
 </head>
 <body>
     <h1>Article :</h1>
